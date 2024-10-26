@@ -1,0 +1,26 @@
+{
+  "navbar_anasayfa": "ANA SAYFA",
+  "navbar_takim": "TAKIM",
+  "navbar_projeler": "PROJELER",
+  "navbar_dergi": "DERGİ",
+  "navbar_iletisim": "İLETİŞİM",
+  "anasayfa_degerlerimiz": "DEĞERLERİMİZ",
+  "anasayfa_degerlerimiz_alt": "Takımımızda benimsediğimiz sürdürülebilirlik değerleri",
+  "anasayfa_isbirliklerimiz": "İŞ BİRLİKLERİMİZ",
+  "anasayfa_aciklama": "Shacshuca robotics daha öncesinde birçok farklı yarışmaya katılmış başarılı üyelerin FRC tecrübeleri sonrası birleşmesiyle oluşmuştur. ShacShuca Robotics olarak temel amacımız STEAM (bilim, teknoloji, mühendislik, sanat, matematik) alanlarını yaratıcılık ve eğlenceyle birleştirip düşünen, tasarlayan ve üreten bir ekip ruhu kurmaktır. Bu amaç doğrultusunda zeka ve yaratıcılığın sembolü, sevimli ve enerjik hayvanlar olan tavşanların vizyonunu benimsedik.",
+  "footer": "© 2024 SHCROBOTICS#10058. Made in ANKARA, Türkiye.",
+
+  "dergi_archetech_nerelerde": "ARCHETECT NERELERDE?",
+  "dergi_archetech_nerelerde_alt": "<b>ARCHETECH</b>’i dergi ve gazete satan tüm noktalarda bulabilirsiniz.",
+  "dergi_aciklama": "Lütfen belgeyi kapattıktan sonra sayfayı yenileyin.",
+
+  "projeler_aciklama": "ShacShuca Robotics olarak FIRST ruhunu ve misyonunu yaymak, Duyarlı Profesyonellik değerini icra etmek için topluma ve çevremize faydalı etkiler bırakacak sosyal sorumluluk projeleri sürdürmekteyiz",
+
+  "takim_first": "FIRST ROBOTICS COMPETITION",
+  "takim_first_nedir": "FRC Nedir?",
+  "takim_first_aciklama":  "FIRST Robotics Competition kelimelerinin baş harfleriyle oluşturulan FRC, dünyanın en büyük ve en prestijli uluslararası bir lise robotik yarışmasıdır. 1989 yılında gençlerin bilime ve teknolojiye yönelik ilgisini güçlendirmek üzere kurulan FIRST Vakfı tarafından her yıl düzenlenen FRC, dünyanın dört köşesinden lise öğrencilerini STEAM alanları ile buluşturur. Her sene düzenlenen bu yarışmada öğrenciler, kendi tasarladıkları ve ürettikleri robotlarla maçlara katılır. Aynı zamanda takımlar, robot yapmanın yanında sosyal sorumluluk projeleri yürütür. Bu sayede “Duyarlı Profesyonellik” (Gracious Professionalism) değeri gençler arasında yayılmış ve yarışmanın etkisi kitlelerce görülmüş olur. ",
+  "takim_first_vizyon": "FIRST Vizyonu",
+  "takim_first_vizyon_aciklama": "FIRST vakfı nedir: FIRST (For Inspiration and Recognition of Science and Technology), mucit Dean Kamen tarafından kurulan ve gençlere bilim ve teknoloji alanında ilham vermeyi amaçlayan bir vakıftır. Gençleri geleceğe hazırlayan bir robotik topluluğu olan FIRST, STEAM (Bilim, Teknoloji, Mühendislik, Sanat, Matematik) alanında gençlere yönelik dünyanın önde gelen sivil toplum kuruluşudur.",
+  "takim_takimimiz": "TAKIMIMIZ",
+  "takim_takimimiz_aciklama": "Takımımız daha öncesinde birçok farklı yarışmaya katılmış başarılı üyelerin FRC tecrübeleri sonrası birleşmesiyle oluşmuştur. ShacShuca Robotics olarak temel amacımız STEAM (bilim, teknoloji, mühendislik, sanat, matematik) alanlarını yaratıcılık ve eğlenceyle birleştirip düşünen, tasarlayan ve üreten bir ekip ruhu kurmaktır. Bu amaç doğrultusunda zeka ve yaratıcılığın sembolü, sevimli ve enerjik hayvanlar olan tavşanların vizyonunu benimsedik."
+}

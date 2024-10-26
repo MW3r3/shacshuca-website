@@ -1,0 +1,22 @@
+[
+	{
+		"img": "values/01.png",
+		"alt": "Değer 1"
+	},
+	{
+		"img": "values/02.png",
+		"alt": "Değer 2"
+	},
+	{
+		"img": "values/03.png",
+		"alt": "Değer 3"
+	},
+	{
+		"img": "values/04.png",
+		"alt": "Değer 4"
+	},
+	{
+		"img": "values/05.png",
+		"alt": "Değer 5"
+	}
+]

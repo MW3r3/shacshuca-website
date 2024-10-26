@@ -1,0 +1,26 @@
+{
+  "navbar_anasayfa": "MAIN PAGE",
+  "navbar_takim": "TEAM",
+  "navbar_projeler": "PROJECTS",
+  "navbar_dergi": "MAGAZINE",
+  "navbar_iletisim": "CONTACT",
+  "anasayfa_degerlerimiz": "VALUES",
+  "anasayfa_degerlerimiz_alt": "Sustainability values we adopt in our team",
+  "anasayfa_isbirliklerimiz": "OUR PARTNERSHIPS",
+  "anasayfa_aciklama": "Shacshuca robotics was formed by the merger of successful members who had previously participated in many different competitions after their FRC experience. As ShacShuca Robotics, our main goal is to combine STEAM (science, technology, engineering, art, maths) fields with creativity and fun to establish a team spirit that thinks, designs and produces. For this purpose, we have adopted the vision of rabbits, which are cute and energetic animals that symbolise intelligence and creativity.",
+  "footer": "© 2024 SHCROBOTICS#10058. Made in ANKARA, Türkiye.",
+
+  "dergi_archetech_nerelerde": "WHERE IS ARCHETECT?",
+  "dergi_archetech_nerelerde_alt": "You can find <b>ARCHETECH</b> at all points selling magazines and newspapers.",
+  "dergi_aciklama": "Please refresh the page after closing the PDF.",
+
+  "projeler_aciklama": "",
+
+  "takim_first": "FIRST ROBOTICS COMPETITION",
+  "takim_first_nedir": "What is FRC?",
+  "takim_first_aciklama": "FRC, which stands for FIRST Robotics Competition, is the world's largest and most prestigious international high school robotics competition. Founded in 1989 by the FIRST Foundation, which was established to strengthen young people's interest in science and technology, FRC brings together high school students from all over the world with STEAM fields. In this annual competition, students participate in matches with robots that they design and build themselves. At the same time, teams carry out social responsibility projects in addition to building robots. In this way, the value of ‘Gracious Professionalism’ is spread among young people and the impact of the competition is seen by the masses. ",
+  "takim_first_vizyon": "FIRST Vision",
+  "takim_first_vizyon_aciklama": "What is FIRST, FIRST foundation: FIRST (For Inspiration and Recognition of Science and Technology) is a foundation founded by inventor Dean Kamen that aims to inspire young people in science and technology. FIRST, a robotics community that prepares young people for the future, is the world's leading non-governmental organisation for young people in STEAM (Science, Technology, Engineering, Art, Mathematics).",
+  "takim_takimimiz": "OUR TEAM",
+  "takim_takimimiz_aciklama": "Our team was formed by the merger of successful members who had previously participated in many different competitions after their FRC experience. As ShacShuca Robotics, our main goal is to combine STEAM (science, technology, engineering, art, maths) fields with creativity and fun to establish a team spirit that thinks, designs and produces. For this purpose, we have adopted the vision of rabbits, which are cute and energetic animals that symbolise intelligence and creativity."
+}
